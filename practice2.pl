@@ -7,6 +7,8 @@ for($i=0;$i<3;$i++)
  {
     if($i==0)
 	{
+	 print "Suganthi";
+	 
 	 print"enter subject name\t";
 	 $subject=<>;
 	 print"enter your mark \t";
